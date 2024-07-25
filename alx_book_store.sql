@@ -24,9 +24,7 @@ CREATE TABLE Customers(
     )
 
 CREATE TABLE Orders(
-    order_id (PRIMARY KEY)
-    customer_id (FOREIGN KEY referencing Customers table)
-    order_date DATE
+    order_id INT", "customer_id INT", "FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
     )
 
 CREATE TABLE Order_Details(
