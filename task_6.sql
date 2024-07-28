@@ -1,4 +1,4 @@
-INSERT INTO customer
+INSERT VALUES INTO customer
 
     customer_id = 2
     customer_name = Blessing Malik
