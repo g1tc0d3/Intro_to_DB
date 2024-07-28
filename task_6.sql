@@ -1,4 +1,5 @@
-INSERT VALUES INTO customer
+INSERT INTO customer
+values(
 
     customer_id = 2
     customer_name = Blessing Malik
@@ -14,3 +15,4 @@ INSERT VALUES INTO customer
     customer_name = Nehemial Kamolu
     email = nkamolu@sandtech.com
     address = 126 Happiness  Ave.
+)
