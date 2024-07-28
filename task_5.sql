@@ -1,3 +1,4 @@
+INSERT INTO customer
 
 customer_id = 1
 customer_name = Cole Baidoo
